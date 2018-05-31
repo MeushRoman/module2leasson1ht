@@ -9,6 +9,7 @@ void main() {
 
 	setlocale(LC_ALL, "Rus");
 
+
 	do
 	{
 		printf("Введите номер задания = ");
