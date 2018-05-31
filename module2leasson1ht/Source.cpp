@@ -7,7 +7,7 @@ void main() {
 
 	int n = 1;
 
-	setlocale(LC_ALL, "rus");
+	setlocale(LC_ALL, "Rus");
 
 	do
 	{
